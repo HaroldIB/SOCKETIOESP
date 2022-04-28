@@ -1,0 +1,23 @@
+{
+  "name": "socketioesp",
+  "version": "1.0.0",
+  "description": "Un proyecto para usar al esp32 como cliente, para un proyecto IOT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaroldIB/SOCKETIOESP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaroldIB/SOCKETIOESP/issues"
+  },
+  "homepage": "https://github.com/HaroldIB/SOCKETIOESP#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "socket.io": "^4.5.0"
+  }
+}
